@@ -24,12 +24,12 @@
       <div id="collapseBootstrap" class="collapse" aria-labelledby="headingBootstrap" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
           <h6 class="collapse-header">Bootstrap UI</h6>
-          <a class="collapse-item" href="alerts.html">Alerts</a>
-          <a class="collapse-item" href="buttons.html">Buttons</a>
-          <a class="collapse-item" href="dropdowns.html">Dropdowns</a>
-          <a class="collapse-item" href="modals.html">Modals</a>
-          <a class="collapse-item" href="popovers.html">Popovers</a>
-          <a class="collapse-item" href="progress-bar.html">Progress Bars</a>
+          <a class="collapse-item" href="/alerts">Alerts</a>
+          <a class="collapse-item" href="/buttons">Buttons</a>
+          <a class="collapse-item" href="/dropdowns">Dropdowns</a>
+          <a class="collapse-item" href="/modals">Modals</a>
+          <a class="collapse-item" href="/popovers">Popovers</a>
+          <a class="collapse-item" href="/progress-bar">Progress Bars</a>
         </div>
       </div>
     </li>
@@ -42,8 +42,8 @@
       <div id="collapseForm" class="collapse" aria-labelledby="headingForm" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
           <h6 class="collapse-header">Forms</h6>
-          <a class="collapse-item" href="form_basics.html">Form Basics</a>
-          <a class="collapse-item" href="form_advanceds.html">Form Advanceds</a>
+          <a class="collapse-item" href="/form_basics">Form Basics</a>
+          <a class="collapse-item" href="/form_advanceds">Form Advanceds</a>
         </div>
       </div>
     </li>
@@ -56,13 +56,13 @@
       <div id="collapseTable" class="collapse" aria-labelledby="headingTable" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
           <h6 class="collapse-header">Tables</h6>
-          <a class="collapse-item" href="simple-tables.html">Simple Tables</a>
-          <a class="collapse-item" href="datatables.html">DataTables</a>
+          <a class="collapse-item" href="/simple-tables">Simple Tables</a>
+          <a class="collapse-item" href="/datatables">DataTables</a>
         </div>
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="ui-colors.html">
+      <a class="nav-link" href="/ui-colors">
         <i class="fas fa-fw fa-palette"></i>
         <span>UI Colors</span>
       </a>
@@ -80,15 +80,15 @@
       <div id="collapsePage" class="collapse" aria-labelledby="headingPage" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
           <h6 class="collapse-header">Example Pages</h6>
-          <a class="collapse-item" href="login.html">Login</a>
-          <a class="collapse-item" href="register.html">Register</a>
-          <a class="collapse-item" href="404.html">404 Page</a>
-          <a class="collapse-item" href="blank.html">Blank Page</a>
+          <a class="collapse-item" href="/login">Login</a>
+          <a class="collapse-item" href="/register">Register</a>
+          <a class="collapse-item" href="/404">404 Page</a>
+          <a class="collapse-item" href="/blank">Blank Page</a>
         </div>
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="charts.html">
+      <a class="nav-link" href="/charts">
         <i class="fas fa-fw fa-chart-area"></i>
         <span>Charts</span>
       </a>

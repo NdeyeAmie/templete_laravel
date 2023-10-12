@@ -16,61 +16,61 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('layouts.index');
 });
-Route::get('modals', function () {
+Route::get('/modals', function () {
     return view('layouts.modals');
 });
-Route::get('alerts', function () {
+Route::get('/alerts', function () {
     return view('layouts.alerts');
 });
 
-Route::get('buttons', function () {
+Route::get('/buttons', function () {
     return view('layouts.buttons');
 });
 
-Route::get('dropdowns', function () {
+Route::get('/dropdowns', function () {
     return view('layouts.dropdowns');
 });
 
-Route::get('popovers', function () {
+Route::get('/popovers', function () {
     return view('layouts.popovers');
 });
 
-Route::get('progress-bar', function () {
+Route::get('/progress-bar', function () {
     return view('layouts.progress-bar');
 });
 
-Route::get('form_basics', function () {
+Route::get('/form_basics', function () {
     return view('layouts.form_basics');
 });
 
-Route::get('form_advanceds', function () {
+Route::get('/form_advanceds', function () {
     return view('layouts.form_advanceds');
 });
 
-Route::get('simple-tables', function () {
+Route::get('/simple-tables', function () {
     return view('layouts.simple-tables');
 });
 
-Route::get('datatables', function () {
+Route::get('/datatables', function () {
     return view('layouts.datatables');
 });
 
-Route::get('ui-colors', function () {
+Route::get('/ui-colors', function () {
     return view('layouts.ui-colors');
 });
 
-Route::get('login', function () {
+Route::get('/login', function () {
     return view('layouts.login');
 });
 
-Route::get('register', function () {
+Route::get('/register', function () {
     return view('layouts.register');
 });
 
-Route::get('blank', function () {
+Route::get('/blank', function () {
     return view('layouts.blank');
 });
 
-Route::get('charts', function () {
+Route::get('/charts', function () {
     return view('layouts.charts');
 });
